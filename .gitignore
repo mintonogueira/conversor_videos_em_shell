@@ -1,0 +1,9 @@
+# Arquivos temporários produzidos pelo conversor
+.*.partial.*
+.video_convert_pass_*
+*.log.mbtree
+*.mbtree
+
+# Logs de 2-pass do FFmpeg
+ffmpeg2pass-*.log
+ffmpeg2pass-*.log.mbtree
